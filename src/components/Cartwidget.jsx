@@ -1,9 +1,7 @@
-import React from 'react'
-
-function Cartwidget() {
+function CartWidget() {
   return (
-    <div>Cartwidget</div>
+    <div>CartWidget</div>
   )
 }
 
-export default Cartwidget
+export default CartWidget

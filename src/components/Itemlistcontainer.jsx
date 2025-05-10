@@ -1,9 +1,8 @@
-import React from 'react'
 
-function Itemlistcontainer() {
+function ItemListContainer() {
   return (
-    <div>Itemlistcontainer</div>
+    <div>ItemListContainer</div>
   )
 }
 
-export default Itemlistcontainer
+export default ItemListContainer
