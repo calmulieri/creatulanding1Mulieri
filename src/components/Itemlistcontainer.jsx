@@ -1,8 +1,10 @@
 
-function ItemListContainer() {
+import './ItemListContainer.css'
+function ItemListContainer({welcome}) {
   return (
-    <div>ItemListContainer</div>
+    <div className="productlist">
+      <h2>{welcome}</h2>
+    </div>
   )
 }
-
 export default ItemListContainer

@@ -1,6 +1,7 @@
 
 import CartWidget from './Cartwidget'
 import logo from '../assets/logo.png'
+import './NavBar.css'
 function NavBar() {
   return (
     <nav className="navbar">
