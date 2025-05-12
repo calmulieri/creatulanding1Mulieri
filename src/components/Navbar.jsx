@@ -1,7 +1,7 @@
 
-import CartWidget from './Cartwidget'
-import logo from '../assets/logo.png'
-import './NavBar.css'
+import CartWidget from './Cartwidget'; // Carrito
+import logo from '../assets/logo.png'; // logo 
+import './NavBar.css';
 function NavBar() {
   return (
     <nav className="navbar">

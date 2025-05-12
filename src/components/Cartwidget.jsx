@@ -1,9 +1,9 @@
-import widlogo from '../assets/widlogo.png'
+import widlogo from '../assets/widlogo.png'; //Logo carrito
 function CartWidget() {
   return (
     <div className="cartwidget">
-      <img className="cartwicon" src={widlogo} alt="Carrito de compras"  />
-      <span className="cartcount">3</span>
+      <img className="cartwidlog" src={widlogo} alt="Carrito de compras"/> 
+      <span className="cartcount">3</span>                 
     </div>
   )
 }

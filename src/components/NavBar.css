@@ -1,9 +1,8 @@
 .navbar {
   width: 100%;
-  position: fixed; /* Esto lo pega arriba */
+  position: fixed; 
   top: 0;
   left: 0;
-  /*z-index: 1000; /* Se asegura de que esté por encima de otros elementos */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -40,7 +39,7 @@
   margin-right: 8px;
 }
 
-.cartwicon {
+.cartwidlog {
   width: 24px;
   height: 24px;
 }
